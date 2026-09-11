@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/manishmotirale/Daily-Coading/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/manishmotirale/Daily-Coading/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/manishmotirale/Daily-Coading/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
 ## Matrix
@@ -26,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/manishmotirale/Daily-Coading/tree/master/0812-largest-triangle-area) |
+## Hash Table
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
