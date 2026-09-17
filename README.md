@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/manishmotirale/Daily-Coading/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
 | [0371-sum-of-two-integers](https://github.com/manishmotirale/Daily-Coading/tree/master/0371-sum-of-two-integers) |
 | [0812-largest-triangle-area](https://github.com/manishmotirale/Daily-Coading/tree/master/0812-largest-triangle-area) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/manishmotirale/Daily-Coading/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/manishmotirale/Daily-Coading/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/manishmotirale/Daily-Coading/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/manishmotirale/Daily-Coading/tree/master/0371-sum-of-two-integers) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/manishmotirale/Daily-Coading/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
