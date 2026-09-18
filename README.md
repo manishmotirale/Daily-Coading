@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/manishmotirale/Daily-Coading/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
+| [0233-number-of-digit-one](https://github.com/manishmotirale/Daily-Coading/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/manishmotirale/Daily-Coading/tree/master/0371-sum-of-two-integers) |
 | [0812-largest-triangle-area](https://github.com/manishmotirale/Daily-Coading/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/manishmotirale/Daily-Coading/tree/master/0233-number-of-digit-one) |
 ## Memoization
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/manishmotirale/Daily-Coading/tree/master/0089-gray-code) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/manishmotirale/Daily-Coading/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
