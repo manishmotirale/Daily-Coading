@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0063-unique-paths-ii) |
 | [0136-single-number](https://github.com/manishmotirale/Daily-Coading/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0063-unique-paths-ii) |
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
 ## Polygons
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manishmotirale/Daily-Coading/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/manishmotirale/Daily-Coading/tree/master/0233-number-of-digit-one) |
 ## Memoization
