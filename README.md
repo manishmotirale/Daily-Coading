@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/manishmotirale/Daily-Coading/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
 ## Euclidean Algorithm
 |  |
@@ -87,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manishmotirale/Daily-Coading/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/manishmotirale/Daily-Coading/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/manishmotirale/Daily-Coading/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/manishmotirale/Daily-Coading/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
