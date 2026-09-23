@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/manishmotirale/Daily-Coading/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/manishmotirale/Daily-Coading/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/manishmotirale/Daily-Coading/tree/master/0120-triangle) |
 | [0233-number-of-digit-one](https://github.com/manishmotirale/Daily-Coading/tree/master/0233-number-of-digit-one) |
 ## Memoization
 |  |
