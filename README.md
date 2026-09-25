@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/manishmotirale/Daily-Coading/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
+| [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/manishmotirale/Daily-Coading/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0064-minimum-path-sum) |
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
+| [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
 ## Polygons
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/manishmotirale/Daily-Coading/tree/master/0120-triangle) |
 | [0233-number-of-digit-one](https://github.com/manishmotirale/Daily-Coading/tree/master/0233-number-of-digit-one) |
+| [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
 ## Memoization
 |  |
 | ------- |
