@@ -119,20 +119,14 @@ int cherryPickupTab(vector<vector<int>> &grid) {
 
                 for (int dj1 = -1; dj1 <= 1; dj1++) {
                     for (int dj2 = -1; dj2 <= 1; dj2++) {
-                        int nextJ1 = j1 + dj1;
-                        int nextJ2 = j2 + dj2;
-
-                        if (nextJ1 < 0 || nextJ1 >= m || nextJ2 < 0 ||
-                            nextJ2 >= m)
-                            continue;
 
                         int value;
 
                         if (j1 == j2) {
-                            value = grid[i][j1] + dp[i + 1][nextJ1][nextJ2];
+                            value = grid[i][j1] + dp[i + 1][j1 + dj1][j2 + dj2];
                         } else {
                             value = grid[i][j1] + grid[i][j2] +
-                                    dp[i + 1][nextJ1][nextJ2];
+                                    dp[i + 1][j1 + dj1][j2 + dj2];
                         }
 
                         maxi = max(maxi, value);
@@ -172,20 +166,14 @@ int cherryPickupSO(vector<vector<int>> &grid) {
 
                 for (int dj1 = -1; dj1 <= 1; dj1++) {
                     for (int dj2 = -1; dj2 <= 1; dj2++) {
-                        int nextJ1 = j1 + dj1;
-                        int nextJ2 = j2 + dj2;
-
-                        if (nextJ1 < 0 || nextJ1 >= m || nextJ2 < 0 ||
-                            nextJ2 >= m)
-                            continue;
 
                         int value;
 
                         if (j1 == j2) {
-                            value = grid[i][j1] + front[nextJ1][nextJ2];
+                            value = grid[i][j1] + front[j1 + dj1][j2 + dj2];
                         } else {
                             value = grid[i][j1] + grid[i][j2] +
-                                    front[nextJ1][nextJ2];
+                                    front[j1 + dj1][j2 + dj2];
                         }
 
                         maxi = max(maxi, value);
@@ -205,11 +193,15 @@ int main() {
     vector<vector<int>> grid = {{3, 1, 1}, {2, 5, 1}, {1, 5, 5}, {2, 1, 1}};
     cout << "Maximum cherries collected (Recursion): " << cherryPickupRec(grid)
          << endl;
+    
     cout << "Maximum cherries collected (Memoization): "
          << cherryPickupMemo(grid) << endl;
+    
     cout << "Maximum cherries collected (Tabulation): " << cherryPickupTab(grid)
          << endl;
+    
     cout << "Maximum cherries collected (Space Optimization): "
          << cherryPickupSO(grid) << endl;
+    
     return 0;
 }
