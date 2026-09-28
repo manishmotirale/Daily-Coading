@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manishmotirale/Daily-Coading/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
+| [0416-partition-equal-subset-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0416-partition-equal-subset-sum) |
 | [0812-largest-triangle-area](https://github.com/manishmotirale/Daily-Coading/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/manishmotirale/Daily-Coading/tree/master/0120-triangle) |
 | [0233-number-of-digit-one](https://github.com/manishmotirale/Daily-Coading/tree/master/0233-number-of-digit-one) |
+| [0416-partition-equal-subset-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/1463-cherry-pickup-ii) |
 ## Memoization
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/manishmotirale/Daily-Coading/tree/master/0146-lru-cache) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
