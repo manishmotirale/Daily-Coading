@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/manishmotirale/Daily-Coading/tree/master/0149-max-points-on-a-line) |
 | [0416-partition-equal-subset-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0494-target-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/manishmotirale/Daily-Coading/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/manishmotirale/Daily-Coading/tree/master/0883-projection-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/manishmotirale/Daily-Coading/tree/master/0233-number-of-digit-one) |
 | [0416-partition-equal-subset-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0494-target-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/1463-cherry-pickup-ii) |
 ## Memoization
