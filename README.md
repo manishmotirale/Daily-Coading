@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/manishmotirale/Daily-Coading/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/manishmotirale/Daily-Coading/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/manishmotirale/Daily-Coading/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/manishmotirale/Daily-Coading/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manishmotirale/Daily-Coading/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Memoization
@@ -154,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manishmotirale/Daily-Coading/tree/master/1547-minimum-cost-to-cut-a-stick) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/manishmotirale/Daily-Coading/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
